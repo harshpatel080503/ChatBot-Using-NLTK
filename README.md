@@ -42,7 +42,3 @@ nltk.download('wordnet')
 * Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
 
 You can run the [chatbot.ipynb](https://github.com/harshpatel080503/ChatBot-Using-NLTK/blob/master/ChatBot_NLTK.ipynb) which also includes step by step instructions.
-* Through Terminal
-```
-python chatbot.py
-```
