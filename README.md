@@ -9,16 +9,12 @@ On similar lines let's create a very basic chatbot utlising the Python's NLTK li
 
 # Outline
 * [Motivation](#motivation)
-* [Blogpost](#blogpost)
 * [Pre-requisites](#pre-requisites)
 * [How to run](#how-to-run)
 
 
 ## Motivation
 The idea of this project was not to create some SOTA chatbot with exceptional cognitive skills but just to utilise and test my Python skills.This was one of my very first projects, created  when I just stepped into the world of NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
-
-## BlogPost
-For detailed overview, here is the accompanying blog titled:**[Building a Simple Chatbot in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)**
 
 
 ## Pre-requisites
@@ -45,7 +41,7 @@ nltk.download('wordnet')
 ## How to run
 * Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
 
-You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
+You can run the [chatbot.ipynb]() which also includes step by step instructions.
 * Through Terminal
 ```
 python chatbot.py
